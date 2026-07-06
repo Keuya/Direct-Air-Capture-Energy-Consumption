@@ -1,0 +1,13 @@
+pathway,host,energy cost $/t gross,net removal fraction,energy cost $/t NET
+Liquid solvent,Kenya (geothermal),282.0,0.73,386.0
+Liquid solvent,Iceland (geo+hydro),212.0,0.92,231.0
+Liquid solvent,US Gulf Coast (gas grid),158.0,0.11,1415.0
+Liquid solvent,Coal-heavy grid,210.0,-0.57,inf
+Solid sorbent,Kenya (geothermal),58.0,0.95,60.0
+Solid sorbent,Iceland (geo+hydro),36.0,0.99,37.0
+Solid sorbent,US Gulf Coast (gas grid),82.0,0.8,102.0
+Solid sorbent,Coal-heavy grid,108.0,0.65,165.0
+Electrochemical,Kenya (geothermal),91.0,0.88,103.0
+Electrochemical,Iceland (geo+hydro),56.0,0.96,58.0
+Electrochemical,US Gulf Coast (gas grid),78.0,0.49,158.0
+Electrochemical,Coal-heavy grid,104.0,0.09,1156.0
